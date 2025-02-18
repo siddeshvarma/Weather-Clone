@@ -1,9 +1,0 @@
-/* App.css */
-.App {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh; /* Ensures it covers full height */
-  text-align: center;
-  background-color: #f4f4f4; /* Optional: Add a background color */
-}
